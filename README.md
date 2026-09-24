@@ -1,4 +1,9 @@
 # idena-contract-examples [WIP]
+
+## Research disclaimer
+
+This is experimental research software. I cannot guarantee its security, correctness, or fitness for any purpose. Use it at your own risk, take responsibility for your decisions, independently verify changes, and stay vigilant.
+
 ## Note: Contract examples are not ready for production use. Code may be bugged. The purpose of this repo is to show how to write and test contracts with idena-sdk-as.
 
 
